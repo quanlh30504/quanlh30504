@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Quan Nguyen! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADEF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Web+Developer+%7C+Tech+Enthusiast;Crafting+solutions+for+real-world+problems+with+code;" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -61,10 +59,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/QuanNguyen"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/QuanNguyen"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://dev.to/QuanNguyen"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href=""><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href=""><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100020028467065&locale=vi_VN"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/quann_3054/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
 
 
 ### 👀 Fun Facts
