@@ -25,17 +25,6 @@
 [![My Skills](https://skillicons.dev/icons?i=kafka,redis,docker,nginx,aws,mysql,postgres,mongo&theme=light)](https://skillicons.dev)
 ---
 
-### 🚀 Notable Projects
-- **[Advanced E-commerce Platform](https://github.com/QuanNguyen/e-commerce-platform)**  
-  Comprehensive e-commerce solution with microservices architecture, payment integrations, and real-time data streaming via Kafka.
-
-- **[Cloud-Based Inventory System](https://github.com/QuanNguyen/cloud-inventory)**  
-  Scalable cloud inventory system using AWS services and serverless architecture.
-
-- **[Chat Application](https://github.com/QuanNguyen/chat-app)**  
-  Real-time chat application built using WebSockets and React with a secure authentication layer via Keycloak.
-
----
 
 ### 📊 GitHub Stats
 
