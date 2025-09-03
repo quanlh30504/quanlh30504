@@ -19,36 +19,18 @@
 
 #### Frameworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=spring,react,angular,redux,django,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,angular,redux,django,express,nestjs,nextjs,fastapi&theme=light)](https://skillicons.dev)
 
 #### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=kafka,redis,docker,nginx,aws,mysql,postgres,mongo&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,redis,docker,nginx,aws,mysql,postgres,mongo,cloudflare)](https://skillicons.dev)
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuanNguyen&theme=radical&hide_border=true" alt="Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=QuanNguyen&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanNguyen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QuanNguyen&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/quan-nguyen-a47aaa366/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href=""><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href=""><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://www.facebook.com/profile.php?id=100020028467065&locale=vi_VN"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
